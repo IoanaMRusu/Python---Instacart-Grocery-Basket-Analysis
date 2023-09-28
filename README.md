@@ -1,5 +1,6 @@
 # Python---Instacart-Grocery-Basket-Analysis
-Instacart, is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns
+Instacart, is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns  
+![instacart-logo_v3](https://github.com/IoanaMRusu/Python---Instacart-Grocery-Basket-Analysis/assets/144055123/0ffa1a94-011e-4c9f-8003-0db911c7ef4a)
 
 # Objective
 This data analysis project focuses on deriving valuable insights from Instacart's database to support the development of a targeted marketing strategy. The objective is to perform a data analysis to gain a deeper understanding of sales patterns and customer behaviors.
