@@ -17,5 +17,5 @@ Software: Jupyter Notebooks and Excel
 ● The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ.  
 
 # Visualization and Presentation
-An Excel Presentation can to send to the client can be found here: [Instacart Presentation[(https://github.com/IoanaMRusu/Python---Instacart-Grocery-Basket-Analysis/tree/main/05%20Sent%20to%20client)  
+An Excel Presentation can to send to the client can be found here: [Instacart Presentation](https://github.com/IoanaMRusu/Python---Instacart-Grocery-Basket-Analysis/tree/main/05%20Sent%20to%20client)  
 Visualizations were made in Python and can be seen here: [Python Visualizations](https://github.com/IoanaMRusu/Python---Instacart-Grocery-Basket-Analysis/tree/main/04%20Analysis/Visualizations)
