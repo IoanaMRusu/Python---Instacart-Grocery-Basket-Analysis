@@ -18,4 +18,4 @@ Software: Jupyter Notebooks and Excel
 
 # Visualization and Presentation
 An Excel Presentation can to send to the client can be found here: [Instacart Presentation[(https://github.com/IoanaMRusu/Python---Instacart-Grocery-Basket-Analysis/tree/main/05%20Sent%20to%20client)  
-Visualizations were made in Python and can be seen here: [Python Visualizations](
+Visualizations were made in Python and can be seen here: [Python Visualizations](https://github.com/IoanaMRusu/Python---Instacart-Grocery-Basket-Analysis/tree/main/04%20Analysis/Visualizations)
