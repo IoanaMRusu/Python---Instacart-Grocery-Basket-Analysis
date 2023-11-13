@@ -5,6 +5,9 @@ Instacart, is an online grocery store that operates through an app. Instacart al
 # Objective
 This data analysis project focuses on deriving valuable insights from Instacart's database to support the development of a targeted marketing strategy. The objective is to perform a data analysis to gain a deeper understanding of sales patterns and customer behaviors.
 
+![InstacartProjectOverview](https://github.com/IoanaMRusu/Python---Instacart-Grocery-Basket-Analysis/assets/144055123/afe6059e-1f5f-45b1-9a56-4daee1188505)
+
+
 # Tools
 Language: Python  
 Libraries: Pandas, Numpy, Seaborn, Matplotlib, and Scipy  
